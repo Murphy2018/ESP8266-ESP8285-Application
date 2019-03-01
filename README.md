@@ -1,6 +1,4 @@
-<div>
-	<span style="font-size:16px;"><span style="font-weight:bold;font-size:16px;">Wireless-ThermoHygroMeter </span></span><br />
-</div>
+#  Wireless-ThermoHygroMeter 
 <div>
 	The project is a wireless thermo-hygro meter.
 </div>
@@ -11,10 +9,8 @@
 &nbsp;&nbsp; SHT3X(Thermo&amp;Hygro sensor), <br />
 &nbsp;&nbsp; OLED(128x64 screen based ssd1306 controller).
 	</p>
-</div>
-<div>
-	<span style="font-size:16px;"><span style="font-weight:bold;font-size:16px;"><span style="font-size:16px;">DIY&nbsp;tutorial</span></span></span> 
-</div>
+
+#  DIY tutorial
 <div>
 	<p>
 		<span><span style="font-weight:bold;"><span></span></span><span style="font-size:14px;"><strong>prerequisite:</strong></span></span> 
